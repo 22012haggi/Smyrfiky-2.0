@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    flex-wrap: wrap;
+}
+h1 {
+    background-color: rgb(65, 65, 255);
+    border: 2px dashed yellow;
+}
+header {
+    background-color: red;
+border: 5px solid purple;
+}
+.h {
+    text-align: start;
+    color: green;
+}
+p {
+    font-size: 15px;
+    text-align: start;
+}
+.a {
+    width: 770px;
+    height: 5px;
+    background-color: indigo;
+}
+h2 {
+    background-color: lime;
+}
+.n {
+      font-size: 15px; 
+      color: rgb(234, 0, 255);
+      text-align: start;
+}
+.z {
+    color: rgb(255, 123, 0);
+}
+.q {
+    float: right;
+    width: 170px;
+    height: 250px;
+    opacity: 0.5;
+}
+footer {
+    background-color: rgb(252, 42, 42);
+}
+.q:hover {
+   float: right;
+    width: 170px;
+    height: 250px;
+    opacity: 1;
+   margin-bottom: 100px;
+}  
+.ss {
+    width: 500px;
+    height: 250px;
+}
+img {
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1;
+     border: 2px solid red;
+}
